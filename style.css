@@ -24,6 +24,7 @@ body{
   justify-content: center;
   flex-wrap: wrap;
   max-width: 800px;
+  cursor: crosshair;
 }
 
 .square {
